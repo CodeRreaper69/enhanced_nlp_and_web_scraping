@@ -1,7 +1,7 @@
 # How I achieved what I have done!
 
 # Problem Statement
-** Given a list of web page URLs in an Excel file, the task is to:
+* ** Given a list of web page URLs in an Excel file, the task is to:
 
 - Automatically extract the full textual content from each web page.
 
