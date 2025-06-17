@@ -1,6 +1,24 @@
 # How I achieved what I have done!
 
-## Overview
+# Problem Statement
+1. Given a list of web page URLs in an Excel file, the task is to:
+
+- Automatically extract the full textual content from each web page.
+
+- Analyze the extracted text using various Natural Language Processing (NLP) techniques including sentiment analysis, readability, and lexical metrics.
+
+- Generate a structured Excel output that summarizes the computed metrics for each document in a clean tabular format.
+
+# Key Challenges:
+- Many URLs are dynamically rendered, requiring a browser-based scraping approach (static parsing fails).
+
+- Need for automated, large-scale processing (147+ pages) with logging, retry handling, and fallback mechanisms.
+
+- Requirement to perform custom NLP-based analysis, based on predefined formulas and dictionary-based sentiment scoring.
+
+- Consistency in file structure and data flow from extraction → processing → output.
+
+## Solution Overview
 
 This repository contains the implementation of a two-part task:
 
