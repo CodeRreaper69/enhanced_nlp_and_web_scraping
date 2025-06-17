@@ -1,0 +1,211 @@
+2025-04-12 13:20:47,875 - INFO - Logger initialized.
+2025-04-12 13:20:48,609 - INFO - Excel file 'input\Input.xlsx' loaded successfully.
+2025-04-12 13:20:49,951 - INFO - WebDriver initialized successfully.
+
+2025-04-12 13:20:49,951 - INFO - Processing ID: Netclan20241017 | URL: https://insights.blackcoffer.com/ai-and-ml-based-youtube-analytics-and-content-creation-tool-for-optimizing-subscriber-engagement-and-content-strategy/
+2025-04-12 13:21:01,555 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241017.txt'
+
+2025-04-12 13:21:03,556 - INFO - Processing ID: Netclan20241018 | URL: https://insights.blackcoffer.com/enhancing-front-end-features-and-functionality-for-improved-user-experience-and-dashboard-accuracy-in-partner-hospital-application/
+2025-04-12 13:21:08,276 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241018.txt'
+
+2025-04-12 13:21:10,277 - INFO - Processing ID: Netclan20241019 | URL: https://insights.blackcoffer.com/roas-dashboard-for-campaign-wise-google-ads-budget-tracking-using-google-ads-ap/
+2025-04-12 13:21:13,295 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241019.txt'
+
+2025-04-12 13:21:15,308 - INFO - Processing ID: Netclan20241020 | URL: https://insights.blackcoffer.com/efficient-processing-and-analysis-of-financial-data-from-pdf-files-addressing-formatting-inconsistencies-and-ensuring-data-integrity-for-a-toyota-dealership-management-firm/
+2025-04-12 13:21:17,627 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241020.txt'
+
+2025-04-12 13:21:19,629 - INFO - Processing ID: Netclan20241021 | URL: https://insights.blackcoffer.com/development-of-ea-robot-for-automated-trading/
+2025-04-12 13:21:24,444 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241021.txt'
+
+2025-04-12 13:21:26,454 - INFO - Processing ID: Netclan20241022 | URL: https://insights.blackcoffer.com/ai-and-ml-based-youtube-analytics-and-content-creation-tool-for-optimizing-subscriber-engagement-and-content-strategy/
+2025-04-12 13:21:28,483 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241022.txt'
+
+2025-04-12 13:21:30,496 - INFO - Processing ID: Netclan20241023 | URL: https://insights.blackcoffer.com/enhancing-front-end-features-and-functionality-for-improved-user-experience-and-dashboard-accuracy-in-partner-hospital-application/
+2025-04-12 13:21:32,697 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241023.txt'
+
+2025-04-12 13:21:34,698 - INFO - Processing ID: Netclan20241024 | URL: https://insights.blackcoffer.com/roas-dashboard-for-campaign-wise-google-ads-budget-tracking-using-google-ads-ap/
+2025-04-12 13:21:36,667 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241024.txt'
+
+2025-04-12 13:21:38,682 - INFO - Processing ID: Netclan20241025 | URL: https://insights.blackcoffer.com/efficient-processing-and-analysis-of-financial-data-from-pdf-files-addressing-formatting-inconsistencies-and-ensuring-data-integrity-for-a-toyota-dealership-management-firm/
+2025-04-12 13:21:40,617 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241025.txt'
+
+2025-04-12 13:21:42,623 - INFO - Processing ID: Netclan20241026 | URL: https://insights.blackcoffer.com/transforming-and-managing-a-large-scale-sql-pedigree-database-to-neo4j-graph-db/
+2025-04-12 13:21:47,160 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241026.txt'
+
+2025-04-12 13:21:49,170 - INFO - Processing ID: Netclan20241027 | URL: https://insights.blackcoffer.com/enhancing-model-accuracy-from-58-to-over-90-strategies-for-improving-predictive-performance/
+2025-04-12 13:21:52,679 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241027.txt'
+
+2025-04-12 13:21:54,682 - INFO - Processing ID: Netclan20241028 | URL: https://insights.blackcoffer.com/securing-sensitive-financial-data-with-privacy-preserving-machine-learning-for-predictive-analytics/
+2025-04-12 13:21:58,154 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241028.txt'
+
+2025-04-12 13:22:00,155 - INFO - Processing ID: Netclan20241029 | URL: https://insights.blackcoffer.com/enhancing-data-collection-for-research-institutions-addressing-survey-fatigue-and-incorporating-verbal-communication-for-richer-insights/
+2025-04-12 13:22:07,596 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241029.txt'
+
+2025-04-12 13:22:09,603 - INFO - Processing ID: Netclan20241030 | URL: https://insights.blackcoffer.com/analyzing-the-impact-of-positive-emotions-and-pandemic-severity-on-mental-health-and-resilience-among-entrepreneurs-insights-and-predictive-modeling/
+2025-04-12 13:22:16,997 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241030.txt'
+
+2025-04-12 13:22:19,004 - INFO - Processing ID: Netclan20241031 | URL: https://insights.blackcoffer.com/dynamic-brand-centric-dashboard-for-automotive-dealerships-pdf-to-financial-insights-with-flask-react-architecture-and-aws-cloud-hosting/
+2025-04-12 13:22:25,064 - INFO - Saved content to 'extracted_articles_from_input_excel_3\Netclan20241031.txt'
+
+2025-04-12 13:22:27,079 - INFO - Processing ID: Netclan20241032 | URL: https://insights.blackcoffer.com/cloud-based-data-modeling-and-analysis-platform-with-drag-and-drop-interface-and-openai-api-integration-for-simulation-insights/
+2025-04-12 13:22:30,099 - WARNING - Attempt 1 failed for 'https://insights.blackcoffer.com/cloud-based-data-modeling-and-analysis-platform-with-drag-and-drop-interface-and-openai-api-integration-for-simulation-insights/'. Retrying...
+    Reason: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=135.0.3179.66)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A494EE85+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48AF150+402704]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4BA4BFA+1818314]
+	(No symbol) [0x00007FF7A467C295]
+	(No symbol) [0x00007FF7A470EA20]
+	(No symbol) [0x00007FF7A472605A]
+	(No symbol) [0x00007FF7A4708C33]
+	(No symbol) [0x00007FF7A46DD4D6]
+	(No symbol) [0x00007FF7A46DCA82]
+	(No symbol) [0x00007FF7A46DD303]
+	(No symbol) [0x00007FF7A47D060D]
+	(No symbol) [0x00007FF7A47DD642]
+	(No symbol) [0x00007FF7A47D5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4A29BCA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48BC5A1+457057]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B5854+429076]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B59A3+429411]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48A74A6+370790]
+	BaseThreadInitThunk [0x00007FFCABAB7374+20]
+	RtlUserThreadStart [0x00007FFCACE7CC91+33]
+
+2025-04-12 13:22:33,113 - ERROR - Failed to process 'https://insights.blackcoffer.com/cloud-based-data-modeling-and-analysis-platform-with-drag-and-drop-interface-and-openai-api-integration-for-simulation-insights/' after 2 attempts.
+    Final Reason: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=135.0.3179.66)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A494EE85+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48AF150+402704]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4BA4BFA+1818314]
+	(No symbol) [0x00007FF7A467C295]
+	(No symbol) [0x00007FF7A470EA20]
+	(No symbol) [0x00007FF7A472605A]
+	(No symbol) [0x00007FF7A4708C33]
+	(No symbol) [0x00007FF7A46DD4D6]
+	(No symbol) [0x00007FF7A46DCA82]
+	(No symbol) [0x00007FF7A46DD303]
+	(No symbol) [0x00007FF7A47D060D]
+	(No symbol) [0x00007FF7A47DD642]
+	(No symbol) [0x00007FF7A47D5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4A29BCA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48BC5A1+457057]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B5854+429076]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B59A3+429411]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48A74A6+370790]
+	BaseThreadInitThunk [0x00007FFCABAB7374+20]
+	RtlUserThreadStart [0x00007FFCACE7CC91+33]
+
+
+2025-04-12 13:22:35,133 - INFO - Processing ID: Netclan20241033 | URL: https://insights.blackcoffer.com/voter-profile-analysis-and-search-application-for-targeted-campaign-engagement-using-government-voter-data/
+2025-04-12 13:22:35,133 - WARNING - Attempt 1 failed for 'https://insights.blackcoffer.com/voter-profile-analysis-and-search-application-for-targeted-campaign-engagement-using-government-voter-data/'. Retrying...
+    Reason: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=135.0.3179.66)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A494EE85+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48AF150+402704]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4BA4BFA+1818314]
+	(No symbol) [0x00007FF7A467C295]
+	(No symbol) [0x00007FF7A470EA20]
+	(No symbol) [0x00007FF7A472605A]
+	(No symbol) [0x00007FF7A4708C33]
+	(No symbol) [0x00007FF7A46DD4D6]
+	(No symbol) [0x00007FF7A46DCA82]
+	(No symbol) [0x00007FF7A46DD303]
+	(No symbol) [0x00007FF7A47D060D]
+	(No symbol) [0x00007FF7A47DD642]
+	(No symbol) [0x00007FF7A47D5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4A29BCA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48BC5A1+457057]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B5854+429076]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B59A3+429411]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48A74A6+370790]
+	BaseThreadInitThunk [0x00007FFCABAB7374+20]
+	RtlUserThreadStart [0x00007FFCACE7CC91+33]
+
+2025-04-12 13:22:38,137 - ERROR - Failed to process 'https://insights.blackcoffer.com/voter-profile-analysis-and-search-application-for-targeted-campaign-engagement-using-government-voter-data/' after 2 attempts.
+    Final Reason: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=135.0.3179.66)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A494EE85+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48AF150+402704]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4BA4BFA+1818314]
+	(No symbol) [0x00007FF7A467C295]
+	(No symbol) [0x00007FF7A470EA20]
+	(No symbol) [0x00007FF7A472605A]
+	(No symbol) [0x00007FF7A4708C33]
+	(No symbol) [0x00007FF7A46DD4D6]
+	(No symbol) [0x00007FF7A46DCA82]
+	(No symbol) [0x00007FF7A46DD303]
+	(No symbol) [0x00007FF7A47D060D]
+	(No symbol) [0x00007FF7A47DD642]
+	(No symbol) [0x00007FF7A47D5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4A29BCA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48BC5A1+457057]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B5854+429076]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B59A3+429411]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48A74A6+370790]
+	BaseThreadInitThunk [0x00007FFCABAB7374+20]
+	RtlUserThreadStart [0x00007FFCACE7CC91+33]
+
+
+2025-04-12 13:22:40,140 - INFO - Processing ID: Netclan20241034 | URL: https://insights.blackcoffer.com/bert-based-classification-of-individuals-and-organizations-into-two-categories-using-natural-language-processing/
+2025-04-12 13:22:40,140 - WARNING - Attempt 1 failed for 'https://insights.blackcoffer.com/bert-based-classification-of-individuals-and-organizations-into-two-categories-using-natural-language-processing/'. Retrying...
+    Reason: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=135.0.3179.66)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A494EE85+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48AF150+402704]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4BA4BFA+1818314]
+	(No symbol) [0x00007FF7A467C295]
+	(No symbol) [0x00007FF7A470EA20]
+	(No symbol) [0x00007FF7A472605A]
+	(No symbol) [0x00007FF7A4708C33]
+	(No symbol) [0x00007FF7A46DD4D6]
+	(No symbol) [0x00007FF7A46DCA82]
+	(No symbol) [0x00007FF7A46DD303]
+	(No symbol) [0x00007FF7A47D060D]
+	(No symbol) [0x00007FF7A47DD642]
+	(No symbol) [0x00007FF7A47D5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4A29BCA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48BC5A1+457057]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B5854+429076]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B59A3+429411]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48A74A6+370790]
+	BaseThreadInitThunk [0x00007FFCABAB7374+20]
+	RtlUserThreadStart [0x00007FFCACE7CC91+33]
+
+2025-04-12 13:22:43,147 - ERROR - Failed to process 'https://insights.blackcoffer.com/bert-based-classification-of-individuals-and-organizations-into-two-categories-using-natural-language-processing/' after 2 attempts.
+    Final Reason: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=135.0.3179.66)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A494EE85+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48AF150+402704]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4BA4BFA+1818314]
+	(No symbol) [0x00007FF7A467C295]
+	(No symbol) [0x00007FF7A470EA20]
+	(No symbol) [0x00007FF7A472605A]
+	(No symbol) [0x00007FF7A4708C33]
+	(No symbol) [0x00007FF7A46DD4D6]
+	(No symbol) [0x00007FF7A46DCA82]
+	(No symbol) [0x00007FF7A46DD303]
+	(No symbol) [0x00007FF7A47D060D]
+	(No symbol) [0x00007FF7A47DD642]
+	(No symbol) [0x00007FF7A47D5673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7A4A29BCA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48BC5A1+457057]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B5854+429076]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48B59A3+429411]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7A48A74A6+370790]
+	BaseThreadInitThunk [0x00007FFCABAB7374+20]
+	RtlUserThreadStart [0x00007FFCACE7CC91+33]
+
+

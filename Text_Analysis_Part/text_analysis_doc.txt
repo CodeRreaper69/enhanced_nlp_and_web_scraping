@@ -1,0 +1,224 @@
+This is the hierachy of the files present - 
+E:\BLACKCOFFER INTERNSHIP TASKS\CODING_PART\TEXT_ANALYSIS_PART
+```
+|   text_analysis.py
+|
++---extracted_articles_from_input_excel_2
+|       Netclan20241017.txt
+|       Netclan20241018.txt
+|       Netclan20241019.txt
+|       Netclan20241020.txt
+|       Netclan20241021.txt
++---MasterDictionary
+|       negative-words.txt
+|       positive-words.txt
+|
++---output
+\---Stop Words
+        StopWords_Auditor.txt
+        StopWords_Currencies.txt
+        StopWords_DatesandNumbers.txt
+        StopWords_Generic.txt
+        StopWords_GenericLong.txt
+        StopWords_Geographic.txt
+        StopWords_Names.txt
+```
+
+Contents inside "negative-words.txt -" 
+```
+2-faced
+2-faces
+abnormal
+abolish
+abominable
+abominably
+abominate
+abomination
+abort
+...
+```
+
+Contents inside "positive-words.txt"
+```
+a+
+abound
+abounds
+abundance
+abundant
+accessable
+accessible
+acclaim
+acclaimed
+acclamation
+...
+```
+
+Contents inside "Stop Words\StopWords_Auditor.txt"
+```
+ERNST
+YOUNG
+DELOITTE
+TOUCHE
+KPMG
+PRICEWATERHOUSECOOPERS
+PRICEWATERHOUSE
+COOPERS
+```
+
+
+Contents inside "Stop Words\StopWords_Currencies.txt"
+```
+AFGHANI  | Afghanistan 
+ARIARY | Madagascar 
+BAHT | Thailand 
+BALBOA | Panama 
+BIRR | Ethiopia 
+BOLIVAR | Venezuela 
+BOLIVIANO  | Bolivia 
+CEDI | Ghana 
+COLON  | Costa Rica 
+CÓRDOBA  | Nicaragua 
+DALASI | Gambia 
+DENAR | Macedonia (Former Yug. Rep.) 
+DINAR | Algeria 
+DIRHAM  | Morocco 
+DOBRA | São Tom and Príncipe 
+DONG | Vietnam 
+DRAM | Armenia 
+ESCUDO  | Cape Verde 
+EURO  | Belgium 
+...
+```
+
+Contents inside "Stop Words\StopWords_DatesandNumbers.txt"
+```
+HUNDRED  | Denominations
+THOUSAND
+MILLION
+BILLION
+TRILLION
+DATE  | Time related
+ANNUAL
+ANNUALLY
+ANNUM
+YEAR
+YEARLY
+QUARTER
+QUARTERLY
+QTR
+MONTH
+MONTHLY
+...
+```
+
+Contents inside "Stop Words\StopWords_Generic.txt"
+```
+ABOUT
+ABOVE
+AFTER
+AGAIN
+ALL
+AM
+AMONG
+AN
+AND
+ANY
+ARE
+AS
+AT
+BE
+BECAUSE
+BEEN
+BEFORE
+...
+```
+
+
+Contents inside "Stop Words\StopWords_GenericLong.txt"
+```
+a
+a's
+able
+about
+above
+according
+accordingly
+across
+actually
+after
+afterwards
+again
+against
+ain't
+all
+allow
+allows
+almost
+alone
+along
+already
+...
+```
+
+
+Contents inside "Stop Words\StopWords_Geographic.txt"
+```
+UNITED  | Geographic
+STATE
+NORTH
+SOUTH
+EAST
+NORTHEAST
+NORTHWEST
+SOUTHEAST
+SOUTHWEST
+WEST
+OCEAN
+SEA
+LAKE
+RIVER
+CREEK
+GULF
+MOUNTAIN
+STREET
+BOULEVARD
+BLVD
+PARKWAY
+CITY
+COUNTY
+COUNTRY
+PACIFIC
+ATLANTIC
+INDIAN
+MEDITERRANEAN
+COMMONWEALTH
+AMERICA
+AMERICAN
+YORK  | Cities
+CHICAGO
+...
+```
+
+Contents inside "Stop Words\StopWords_Names.txt"
+```
+SMITH  | Surnames from 1990 census > .002%.  www.census.gov.genealogy/names/dist.all.last
+JOHNSON
+WILLIAMS
+JONES
+BROWN
+DAVIS
+MILLER
+WILSON
+MOORE
+TAYLOR
+ANDERSON
+THOMAS
+JACKSON
+WHITE
+HARRIS
+MARTIN
+THOMPSON
+GARCIA
+MARTINEZ
+...
+```

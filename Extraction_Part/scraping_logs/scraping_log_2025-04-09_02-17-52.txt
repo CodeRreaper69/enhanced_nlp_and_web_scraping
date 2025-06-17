@@ -1,0 +1,5 @@
+2025-04-09 02:17:52,141 - INFO - Logger initialized.
+2025-04-09 02:17:52,594 - INFO - Excel file 'input\Input.xlsx' loaded successfully.
+2025-04-09 02:17:53,748 - INFO - WebDriver initialized successfully.
+
+2025-04-09 02:17:53,748 - INFO - Processing ID: Netclan20241017 | URL: https://insights.blackcoffer.com/ai-and-ml-based-youtube-analytics-and-content-creation-tool-for-optimizing-subscriber-engagement-and-content-strategy/

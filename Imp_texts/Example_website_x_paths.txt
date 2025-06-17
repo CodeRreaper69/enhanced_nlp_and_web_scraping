@@ -1,0 +1,14 @@
+Example websites - 
+
+https://insights.blackcoffer.com/enhancing-front-end-features-and-functionality-for-improved-user-experience-and-dashboard-accuracy-in-partner-hospital-application/ - Netclan20241017
+
+https://insights.blackcoffer.com/healthcare-ai-chatbot-using-llama-llm-langchain/ - Netclan20241018
+
+https://insights.blackcoffer.com/budget-sales-kpi-dashboard-using-power-bi/ - Netclan20241162
+
+https://insights.blackcoffer.com/amazon-buy-bot-an-automation-ai-tool-to-auto-checkouts/ - Netclan20241163
+
+Important Xpaths - 
+//div[@class = ("td-post-content tagdiv-type")] # for the whole content part 
+
+//h1[@class = ("entry-title")]  # for the entry title

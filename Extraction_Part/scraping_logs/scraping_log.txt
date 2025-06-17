@@ -1,0 +1,471 @@
+2025-04-09 01:15:06,528 - INFO - Excel file 'input\Input.xlsx' loaded successfully.
+2025-04-09 01:15:07,634 - INFO - WebDriver initialized successfully.
+
+2025-04-09 01:15:07,650 - INFO - Processing ID: Netclan20241017 | URL: https://insights.blackcoffer.com/ai-and-ml-based-youtube-analytics-and-content-creation-tool-for-optimizing-subscriber-engagement-and-content-strategy/
+2025-04-09 01:15:14,254 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241017.txt'
+
+2025-04-09 01:15:14,254 - INFO - Processing ID: Netclan20241018 | URL: https://insights.blackcoffer.com/enhancing-front-end-features-and-functionality-for-improved-user-experience-and-dashboard-accuracy-in-partner-hospital-application/
+2025-04-09 01:15:27,318 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241018.txt'
+
+2025-04-09 01:15:27,319 - INFO - Processing ID: Netclan20241019 | URL: https://insights.blackcoffer.com/roas-dashboard-for-campaign-wise-google-ads-budget-tracking-using-google-ads-ap/
+2025-04-09 01:15:38,606 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241019.txt'
+
+2025-04-09 01:15:38,606 - INFO - Processing ID: Netclan20241020 | URL: https://insights.blackcoffer.com/efficient-processing-and-analysis-of-financial-data-from-pdf-files-addressing-formatting-inconsistencies-and-ensuring-data-integrity-for-a-toyota-dealership-management-firm/
+2025-04-09 01:15:53,990 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241020.txt'
+
+2025-04-09 01:15:53,990 - INFO - Processing ID: Netclan20241021 | URL: https://insights.blackcoffer.com/development-of-ea-robot-for-automated-trading/
+2025-04-09 01:16:04,522 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241021.txt'
+
+2025-04-09 01:16:04,522 - INFO - Processing ID: Netclan20241022 | URL: https://insights.blackcoffer.com/ai-and-ml-based-youtube-analytics-and-content-creation-tool-for-optimizing-subscriber-engagement-and-content-strategy/
+2025-04-09 01:16:11,649 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241022.txt'
+
+2025-04-09 01:16:11,649 - INFO - Processing ID: Netclan20241023 | URL: https://insights.blackcoffer.com/enhancing-front-end-features-and-functionality-for-improved-user-experience-and-dashboard-accuracy-in-partner-hospital-application/
+2025-04-09 01:16:17,778 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241023.txt'
+
+2025-04-09 01:16:17,778 - INFO - Processing ID: Netclan20241024 | URL: https://insights.blackcoffer.com/roas-dashboard-for-campaign-wise-google-ads-budget-tracking-using-google-ads-ap/
+2025-04-09 01:16:23,378 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241024.txt'
+
+2025-04-09 01:16:23,378 - INFO - Processing ID: Netclan20241025 | URL: https://insights.blackcoffer.com/efficient-processing-and-analysis-of-financial-data-from-pdf-files-addressing-formatting-inconsistencies-and-ensuring-data-integrity-for-a-toyota-dealership-management-firm/
+2025-04-09 01:16:28,454 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241025.txt'
+
+2025-04-09 01:16:28,454 - INFO - Processing ID: Netclan20241026 | URL: https://insights.blackcoffer.com/transforming-and-managing-a-large-scale-sql-pedigree-database-to-neo4j-graph-db/
+2025-04-09 01:16:36,028 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241026.txt'
+
+2025-04-09 01:16:36,028 - INFO - Processing ID: Netclan20241027 | URL: https://insights.blackcoffer.com/enhancing-model-accuracy-from-58-to-over-90-strategies-for-improving-predictive-performance/
+2025-04-09 01:16:42,574 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241027.txt'
+
+2025-04-09 01:16:42,574 - INFO - Processing ID: Netclan20241028 | URL: https://insights.blackcoffer.com/securing-sensitive-financial-data-with-privacy-preserving-machine-learning-for-predictive-analytics/
+2025-04-09 01:16:52,408 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241028.txt'
+
+2025-04-09 01:16:52,408 - INFO - Processing ID: Netclan20241029 | URL: https://insights.blackcoffer.com/enhancing-data-collection-for-research-institutions-addressing-survey-fatigue-and-incorporating-verbal-communication-for-richer-insights/
+2025-04-09 01:17:03,445 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241029.txt'
+
+2025-04-09 01:17:03,445 - INFO - Processing ID: Netclan20241030 | URL: https://insights.blackcoffer.com/analyzing-the-impact-of-positive-emotions-and-pandemic-severity-on-mental-health-and-resilience-among-entrepreneurs-insights-and-predictive-modeling/
+2025-04-09 01:17:08,218 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241030.txt'
+
+2025-04-09 01:17:08,219 - INFO - Processing ID: Netclan20241031 | URL: https://insights.blackcoffer.com/dynamic-brand-centric-dashboard-for-automotive-dealerships-pdf-to-financial-insights-with-flask-react-architecture-and-aws-cloud-hosting/
+2025-04-09 01:17:13,324 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241031.txt'
+
+2025-04-09 01:17:13,325 - INFO - Processing ID: Netclan20241032 | URL: https://insights.blackcoffer.com/cloud-based-data-modeling-and-analysis-platform-with-drag-and-drop-interface-and-openai-api-integration-for-simulation-insights/
+2025-04-09 01:17:17,367 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241032.txt'
+
+2025-04-09 01:17:17,368 - INFO - Processing ID: Netclan20241033 | URL: https://insights.blackcoffer.com/voter-profile-analysis-and-search-application-for-targeted-campaign-engagement-using-government-voter-data/
+2025-04-09 01:17:21,755 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241033.txt'
+
+2025-04-09 01:17:21,756 - INFO - Processing ID: Netclan20241034 | URL: https://insights.blackcoffer.com/bert-based-classification-of-individuals-and-organizations-into-two-categories-using-natural-language-processing/
+2025-04-09 01:17:26,734 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241034.txt'
+
+2025-04-09 01:17:26,735 - INFO - Processing ID: Netclan20241035 | URL: https://insights.blackcoffer.com/comprehensive-analysis-of-solana-and-ethereum-contributors-using-github-api-with-comparative-study-of-1000-random-github-profiles/
+2025-04-09 01:17:31,665 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241035.txt'
+
+2025-04-09 01:17:31,666 - INFO - Processing ID: Netclan20241036 | URL: https://insights.blackcoffer.com/powerbi-rest-api-fetching-dataflow-and-refresh-schedules-with-semantic-models/
+2025-04-09 01:17:35,676 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241036.txt'
+
+2025-04-09 01:17:35,679 - INFO - Processing ID: Netclan20241037 | URL: https://insights.blackcoffer.com/automated-job-data-import-and-management-solution-for-enhanced-efficiency/
+2025-04-09 01:17:39,514 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241037.txt'
+
+2025-04-09 01:17:39,514 - INFO - Processing ID: Netclan20241038 | URL: https://insights.blackcoffer.com/data-analytics-and-optimization-solution-for-enhancing-renewable-energy-efficiency/
+2025-04-09 01:17:44,887 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241038.txt'
+
+2025-04-09 01:17:44,887 - INFO - Processing ID: Netclan20241039 | URL: https://insights.blackcoffer.com/time-series-analysis-and-trend-forecasting-solution-for-predicting-news-trends/
+2025-04-09 01:17:50,111 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241039.txt'
+
+2025-04-09 01:17:50,111 - INFO - Processing ID: Netclan20241040 | URL: https://insights.blackcoffer.com/advanced-data-visualization-solutions-for-monitoring-key-business-metrics-with-integrated-interactive-dashboards/
+2025-04-09 01:17:55,527 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241040.txt'
+
+2025-04-09 01:17:55,527 - INFO - Processing ID: Netclan20241041 | URL: https://insights.blackcoffer.com/advanced-patient-data-analysis-solution-for-trend-identification-and-improved-healthcare-outcome/
+2025-04-09 01:18:00,673 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241041.txt'
+
+2025-04-09 01:18:00,674 - INFO - Processing ID: Netclan20241042 | URL: https://insights.blackcoffer.com/anomaly-detection-and-analysis-for-enhanced-data-integrity-and-user-experience-on-bright-datas-website/
+2025-04-09 01:18:08,273 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241042.txt'
+
+2025-04-09 01:18:08,274 - INFO - Processing ID: Netclan20241043 | URL: https://insights.blackcoffer.com/building-custom-tflite-models-and-benchmarking-on-voxl2-chips/
+2025-04-09 01:18:14,181 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241043.txt'
+
+2025-04-09 01:18:14,182 - INFO - Processing ID: Netclan20241044 | URL: https://insights.blackcoffer.com/sports-prediction-model-for-multiple-sports-leagues/
+2025-04-09 01:18:21,055 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241044.txt'
+
+2025-04-09 01:18:21,056 - INFO - Processing ID: Netclan20241045 | URL: https://insights.blackcoffer.com/efficient-coach-allocation-system-for-sports-coaching-organization/
+2025-04-09 01:18:32,807 - WARNING - Failed to process 'https://insights.blackcoffer.com/efficient-coach-allocation-system-for-sports-coaching-organization/'
+    Reason: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF65B8EEE85+16773]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF65B84F150+402704]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF65BB44BFA+1818314]
+	(No symbol) [0x00007FF65B687B86]
+	(No symbol) [0x00007FF65B687E6B]
+	(No symbol) [0x00007FF65B6C8C77]
+	(No symbol) [0x00007FF65B6A8F0F]
+	(No symbol) [0x00007FF65B67DF8D]
+	(No symbol) [0x00007FF65B6C6658]
+	(No symbol) [0x00007FF65B6A8C33]
+	(No symbol) [0x00007FF65B67D4D6]
+	(No symbol) [0x00007FF65B67CA82]
+	(No symbol) [0x00007FF65B67D303]
+	(No symbol) [0x00007FF65B77060D]
+	(No symbol) [0x00007FF65B77D642]
+	(No symbol) [0x00007FF65B775673]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF65B9C9BCA+265882]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF65B85C5A1+457057]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF65B855854+429076]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF65B8559A3+429411]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF65B8474A6+370790]
+	BaseThreadInitThunk [0x00007FFE9D7C7374+20]
+	RtlUserThreadStart [0x00007FFE9E3FCC91+33]
+
+
+2025-04-09 01:18:32,807 - INFO - Processing ID: Netclan20241046 | URL: https://insights.blackcoffer.com/data-studio-dashboard-with-a-data-pipeline-tool-synced-with-podio-using-custom-webhooks-and-google-cloud-function-2/
+2025-04-09 01:18:42,083 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241046.txt'
+
+2025-04-09 01:18:42,084 - INFO - Processing ID: Netclan20241047 | URL: https://insights.blackcoffer.com/ai-driven-backend-for-audio-to-text-conversion-and-analytical-assessment-in-pharmaceutical-practice/
+2025-04-09 01:18:48,793 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241047.txt'
+
+2025-04-09 01:18:48,794 - INFO - Processing ID: Netclan20241048 | URL: https://insights.blackcoffer.com/cloud-based-web-application-for-financial-data-processing-and-visualization-of-sp-500-metrics/
+2025-04-09 01:18:56,815 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241048.txt'
+
+2025-04-09 01:18:56,816 - INFO - Processing ID: Netclan20241049 | URL: https://insights.blackcoffer.com/department-wise-kpi-tracking-dashboard-with-technician-performance-analysis-for-atoz-dependable-service/
+2025-04-09 01:19:08,431 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241049.txt'
+
+2025-04-09 01:19:08,432 - INFO - Processing ID: Netclan20241050 | URL: https://insights.blackcoffer.com/steps-to-convert-a-node-js-api-to-python-for-aws-lambda-deployment/
+2025-04-09 01:19:19,230 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241050.txt'
+
+2025-04-09 01:19:21,826 - INFO - Processing ID: Netclan20241051 | URL: https://insights.blackcoffer.com/building-an-analytics-dashboard-with-a-pdf-parsing-pipeline-for-data-extraction/
+2025-04-09 01:19:28,977 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241051.txt'
+
+2025-04-09 01:19:28,978 - INFO - Processing ID: Netclan20241052 | URL: https://insights.blackcoffer.com/building-a-real-time-log-file-visualization-dashboard-in-kibana/
+2025-04-09 01:19:38,567 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241052.txt'
+
+2025-04-09 01:19:38,567 - INFO - Processing ID: Netclan20241053 | URL: https://insights.blackcoffer.com/analyzing-the-impact-of-female-ceo-appointments-on-company-stock-prices/
+2025-04-09 01:19:46,639 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241053.txt'
+
+2025-04-09 01:19:46,640 - INFO - Processing ID: Netclan20241054 | URL: https://insights.blackcoffer.com/ai-chatbot-using-llm-langchain-llama/
+2025-04-09 01:20:01,553 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241054.txt'
+
+2025-04-09 01:20:01,553 - INFO - Processing ID: Netclan20241055 | URL: https://insights.blackcoffer.com/healthcare-ai-chatbot-using-llama-llm-langchain/
+2025-04-09 01:20:28,676 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241055.txt'
+
+2025-04-09 01:20:28,677 - INFO - Processing ID: Netclan20241056 | URL: https://insights.blackcoffer.com/ai-bot-audio-to-audio/
+2025-04-09 01:20:40,560 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241056.txt'
+
+2025-04-09 01:20:40,560 - INFO - Processing ID: Netclan20241057 | URL: https://insights.blackcoffer.com/recommendation-engine-for-insurance-sector-to-expand-business-in-the-rural-area/
+2025-04-09 01:20:45,762 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241057.txt'
+
+2025-04-09 01:20:45,763 - INFO - Processing ID: Netclan20241058 | URL: https://insights.blackcoffer.com/data-from-crm-via-zapier-to-google-sheets-dynamic-to-powerbi/
+2025-04-09 01:20:49,881 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241058.txt'
+
+2025-04-09 01:20:49,882 - INFO - Processing ID: Netclan20241059 | URL: https://insights.blackcoffer.com/data-warehouse-to-google-data-studio-looker-dashboard/
+2025-04-09 01:20:55,279 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241059.txt'
+
+2025-04-09 01:20:55,279 - INFO - Processing ID: Netclan20241060 | URL: https://insights.blackcoffer.com/crm-monday-com-via-zapier-to-power-bi-dashboard/
+2025-04-09 01:21:00,127 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241060.txt'
+
+2025-04-09 01:21:00,128 - INFO - Processing ID: Netclan20241061 | URL: https://insights.blackcoffer.com/monday-com-to-kpi-dashboard-to-manage-view-and-generate-insights-from-the-crm-data/
+2025-04-09 01:21:04,861 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241061.txt'
+
+2025-04-09 01:21:04,862 - INFO - Processing ID: Netclan20241062 | URL: https://insights.blackcoffer.com/data-management-for-a-political-saas-application/
+2025-04-09 01:21:13,174 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241062.txt'
+
+2025-04-09 01:21:13,175 - INFO - Processing ID: Netclan20241063 | URL: https://insights.blackcoffer.com/google-lsa-ads-google-local-service-ads-etl-tools-and-dashboards/
+2025-04-09 01:21:19,059 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241063.txt'
+
+2025-04-09 01:21:19,060 - INFO - Processing ID: Netclan20241064 | URL: https://insights.blackcoffer.com/ad-networks-marketing-campaign-data-dashboard-in-looker-google-data-studio/
+2025-04-09 01:21:23,111 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241064.txt'
+
+2025-04-09 01:21:23,112 - INFO - Processing ID: Netclan20241065 | URL: https://insights.blackcoffer.com/analytical-solution-for-a-tech-firm/
+2025-04-09 01:21:27,282 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241065.txt'
+
+2025-04-09 01:21:27,283 - INFO - Processing ID: Netclan20241066 | URL: https://insights.blackcoffer.com/ai-solution-for-a-technology-information-and-internet-firm/
+2025-04-09 01:21:31,641 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241066.txt'
+
+2025-04-09 01:21:31,642 - INFO - Processing ID: Netclan20241067 | URL: https://insights.blackcoffer.com/ai-and-nlp-based-solutions-to-automate-data-discovery-for-venture-capital-and-private-equity-principals/
+2025-04-09 01:21:36,761 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241067.txt'
+
+2025-04-09 01:21:36,762 - INFO - Processing ID: Netclan20241068 | URL: https://insights.blackcoffer.com/an-etl-solution-for-an-internet-publishing-firm/
+2025-04-09 01:21:42,807 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241068.txt'
+
+2025-04-09 01:21:42,807 - INFO - Processing ID: Netclan20241069 | URL: https://insights.blackcoffer.com/ai-based-algorithmic-trading-bot-for-forex/
+2025-04-09 01:21:47,687 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241069.txt'
+
+2025-04-09 01:21:47,688 - INFO - Processing ID: Netclan20241070 | URL: https://insights.blackcoffer.com/equity-waterfalls-model-based-saas-application-for-real-estate-sector/
+2025-04-09 01:22:10,044 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241070.txt'
+
+2025-04-09 01:22:10,044 - INFO - Processing ID: Netclan20241071 | URL: https://insights.blackcoffer.com/ai-solutions-for-foreign-exchange-an-automated-algo-trading-tool/
+2025-04-09 01:22:26,185 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241071.txt'
+
+2025-04-09 01:22:26,186 - INFO - Processing ID: Netclan20241072 | URL: https://insights.blackcoffer.com/ai-agent-development-and-deployment-in-jina-ai/
+2025-04-09 01:22:33,382 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241072.txt'
+
+2025-04-09 01:22:33,383 - INFO - Processing ID: Netclan20241073 | URL: https://insights.blackcoffer.com/golden-record-a-knowledge-graph-database-approach-to-unfold-discovery-using-neo4j/
+2025-04-09 01:22:38,387 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241073.txt'
+
+2025-04-09 01:22:38,387 - INFO - Processing ID: Netclan20241074 | URL: https://insights.blackcoffer.com/advanced-ai-for-trading-automation/
+2025-04-09 01:22:43,666 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241074.txt'
+
+2025-04-09 01:22:43,667 - INFO - Processing ID: Netclan20241075 | URL: https://insights.blackcoffer.com/create-a-knowledge-graph-to-provide-real-time-analytics-recommendations-and-a-single-source-of-truth/
+2025-04-09 01:22:48,980 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241075.txt'
+
+2025-04-09 01:22:48,981 - INFO - Processing ID: Netclan20241076 | URL: https://insights.blackcoffer.com/advanced-ai-for-thermal-person-detection/
+2025-04-09 01:22:54,916 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241076.txt'
+
+2025-04-09 01:22:54,916 - INFO - Processing ID: Netclan20241077 | URL: https://insights.blackcoffer.com/advanced-ai-for-road-cam-threat-detection/
+2025-04-09 01:22:58,947 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241077.txt'
+
+2025-04-09 01:22:58,948 - INFO - Processing ID: Netclan20241078 | URL: https://insights.blackcoffer.com/advanced-ai-for-pedestrian-crossing-safety/
+2025-04-09 01:23:04,382 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241078.txt'
+
+2025-04-09 01:23:04,382 - INFO - Processing ID: Netclan20241079 | URL: https://insights.blackcoffer.com/handgun-detection-using-yolo/
+2025-04-09 01:23:08,660 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241079.txt'
+
+2025-04-09 01:23:08,661 - INFO - Processing ID: Netclan20241080 | URL: https://insights.blackcoffer.com/using-graph-technology-to-create-single-customer-view/
+2025-04-09 01:23:13,345 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241080.txt'
+
+2025-04-09 01:23:13,345 - INFO - Processing ID: Netclan20241081 | URL: https://insights.blackcoffer.com/car-detection-in-satellite-images/
+2025-04-09 01:23:17,948 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241081.txt'
+
+2025-04-09 01:23:17,948 - INFO - Processing ID: Netclan20241082 | URL: https://insights.blackcoffer.com/building-a-physics-informed-neural-network-for-circuit-evaluation/
+2025-04-09 01:23:22,642 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241082.txt'
+
+2025-04-09 01:23:22,642 - INFO - Processing ID: Netclan20241083 | URL: https://insights.blackcoffer.com/connecting-mongodb-database-to-power-bi-dashboard-dashboard-automation/
+2025-04-09 01:23:26,848 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241083.txt'
+
+2025-04-09 01:23:26,848 - INFO - Processing ID: Netclan20241084 | URL: https://insights.blackcoffer.com/data-transformation/
+2025-04-09 01:23:31,641 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241084.txt'
+
+2025-04-09 01:23:31,642 - INFO - Processing ID: Netclan20241085 | URL: https://insights.blackcoffer.com/e-commerce-store-analysis-purchase-behavior-ad-spend-conversion-traffic-etc/
+2025-04-09 01:23:38,114 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241085.txt'
+
+2025-04-09 01:23:38,114 - INFO - Processing ID: Netclan20241086 | URL: https://insights.blackcoffer.com/kpi-dashboard-for-accountants/
+2025-04-09 01:23:43,858 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241086.txt'
+
+2025-04-09 01:23:43,858 - INFO - Processing ID: Netclan20241087 | URL: https://insights.blackcoffer.com/return-on-advertising-spend-dashboard-marketing-automation-and-analytics-using-etl-and-dashboard/
+2025-04-09 01:23:49,908 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241087.txt'
+
+2025-04-09 01:23:49,908 - INFO - Processing ID: Netclan20241088 | URL: https://insights.blackcoffer.com/ranking-customer-behaviours-for-business-strategy/
+2025-04-09 01:23:55,305 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241088.txt'
+
+2025-04-09 01:23:55,306 - INFO - Processing ID: Netclan20241089 | URL: https://insights.blackcoffer.com/algorithmic-trading-for-multiple-commodities-markets-like-forex-metals-energy-etc/
+2025-04-09 01:24:00,425 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241089.txt'
+
+2025-04-09 01:24:00,425 - INFO - Processing ID: Netclan20241090 | URL: https://insights.blackcoffer.com/trading-bot-for-forex/
+2025-04-09 01:24:05,700 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241090.txt'
+
+2025-04-09 01:24:05,700 - INFO - Processing ID: Netclan20241091 | URL: https://insights.blackcoffer.com/python-model-for-the-analysis-of-sector-specific-stock-etfs-for-investment-purposes%ef%bf%bc/
+2025-04-09 01:24:10,216 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241091.txt'
+
+2025-04-09 01:24:10,217 - INFO - Processing ID: Netclan20241092 | URL: https://insights.blackcoffer.com/medical-classification/
+2025-04-09 01:24:14,882 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241092.txt'
+
+2025-04-09 01:24:14,882 - INFO - Processing ID: Netclan20241093 | URL: https://insights.blackcoffer.com/design-develop-bert-question-answering-model-explanations-with-visualization/
+2025-04-09 01:24:20,121 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241093.txt'
+
+2025-04-09 01:24:20,122 - INFO - Processing ID: Netclan20241094 | URL: https://insights.blackcoffer.com/design-and-develop-solution-to-anomaly-detection-classification-problems/
+2025-04-09 01:24:24,659 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241094.txt'
+
+2025-04-09 01:24:24,659 - INFO - Processing ID: Netclan20241095 | URL: https://insights.blackcoffer.com/an-etl-solution-for-currency-data-to-google-big-query/
+2025-04-09 01:24:29,005 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241095.txt'
+
+2025-04-09 01:24:29,005 - INFO - Processing ID: Netclan20241096 | URL: https://insights.blackcoffer.com/etl-and-mlops-infrastructure-for-blockchain-analytics/
+2025-04-09 01:24:34,488 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241096.txt'
+
+2025-04-09 01:24:34,489 - INFO - Processing ID: Netclan20241097 | URL: https://insights.blackcoffer.com/an-agent-based-model-of-a-virtual-power-plant-vpp/
+2025-04-09 01:24:39,566 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241097.txt'
+
+2025-04-09 01:24:39,567 - INFO - Processing ID: Netclan20241098 | URL: https://insights.blackcoffer.com/transform-api-into-sdk-library-and-widget/
+2025-04-09 01:24:44,442 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241098.txt'
+
+2025-04-09 01:24:44,442 - INFO - Processing ID: Netclan20241099 | URL: https://insights.blackcoffer.com/integration-of-a-product-to-a-cloud-based-crm-platform/
+2025-04-09 01:24:49,639 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241099.txt'
+
+2025-04-09 01:25:02,512 - INFO - Processing ID: Netclan20241100 | URL: https://insights.blackcoffer.com/a-web-based-dashboard-for-the-filtered-data-retrieval-of-land-records/
+2025-04-09 01:25:09,526 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241100.txt'
+
+2025-04-09 01:25:09,526 - INFO - Processing ID: Netclan20241101 | URL: https://insights.blackcoffer.com/integration-of-video-conferencing-data-to-the-existing-web-app/
+2025-04-09 01:25:14,938 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241101.txt'
+
+2025-04-09 01:25:14,939 - INFO - Processing ID: Netclan20241102 | URL: https://insights.blackcoffer.com/design-develop-an-app-in-retool-which-shows-the-progress-of-the-added-video/
+2025-04-09 01:25:21,286 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241102.txt'
+
+2025-04-09 01:25:21,286 - INFO - Processing ID: Netclan20241103 | URL: https://insights.blackcoffer.com/auvik-connectwise-integration-in-grafana/
+2025-04-09 01:25:27,590 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241103.txt'
+
+2025-04-09 01:25:27,590 - INFO - Processing ID: Netclan20241104 | URL: https://insights.blackcoffer.com/data-integration-and-big-data-performance-using-elk-stack/
+2025-04-09 01:25:33,948 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241104.txt'
+
+2025-04-09 01:25:33,949 - INFO - Processing ID: Netclan20241105 | URL: https://insights.blackcoffer.com/web-data-connector/
+2025-04-09 01:25:40,772 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241105.txt'
+
+2025-04-09 01:25:40,772 - INFO - Processing ID: Netclan20241106 | URL: https://insights.blackcoffer.com/an-app-for-updating-the-email-id-of-the-user-and-stripe-refund-tool-using-retool/
+2025-04-09 01:25:45,638 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241106.txt'
+
+2025-04-09 01:25:45,638 - INFO - Processing ID: Netclan20241107 | URL: https://insights.blackcoffer.com/an-ai-ml-based-web-application-that-detects-the-correctness-of-text-in-a-given-video/
+2025-04-09 01:25:51,406 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241107.txt'
+
+2025-04-09 01:25:51,406 - INFO - Processing ID: Netclan20241108 | URL: https://insights.blackcoffer.com/website-tracking-and-insights-using-google-analytics-google-tag-manager/
+2025-04-09 01:25:56,906 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241108.txt'
+
+2025-04-09 01:25:56,906 - INFO - Processing ID: Netclan20241109 | URL: https://insights.blackcoffer.com/dashboard-to-track-the-analytics-of-the-website-using-google-analytics-and-google-tag-manager/
+2025-04-09 01:26:02,757 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241109.txt'
+
+2025-04-09 01:26:02,757 - INFO - Processing ID: Netclan20241110 | URL: https://insights.blackcoffer.com/power-bi-dashboard-on-operations-transactions-and-marketing-embedding-the-dashboard-to-web-app/
+2025-04-09 01:26:07,447 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241110.txt'
+
+2025-04-09 01:26:07,447 - INFO - Processing ID: Netclan20241111 | URL: https://insights.blackcoffer.com/nft-data-automation-looksrare-and-etl-tool/
+2025-04-09 01:26:14,706 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241111.txt'
+
+2025-04-09 01:26:14,706 - INFO - Processing ID: Netclan20241112 | URL: https://insights.blackcoffer.com/optimize-the-data-scraper-program-to-easily-accommodate-large-files-and-solve-oom-errors/
+2025-04-09 01:26:21,183 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241112.txt'
+
+2025-04-09 01:26:21,183 - INFO - Processing ID: Netclan20241113 | URL: https://insights.blackcoffer.com/making-a-robust-way-to-sync-data-from-airtables-to-mongodb-using-python-etl-solution/
+2025-04-09 01:26:26,591 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241113.txt'
+
+2025-04-09 01:26:26,594 - INFO - Processing ID: Netclan20241114 | URL: https://insights.blackcoffer.com/incident-duration-prediction-infrastructure-and-real-estate/
+2025-04-09 01:26:35,528 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241114.txt'
+
+2025-04-09 01:26:35,528 - INFO - Processing ID: Netclan20241115 | URL: https://insights.blackcoffer.com/statistical-data-analysis-of-reinforced-concrete/
+2025-04-09 01:26:42,711 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241115.txt'
+
+2025-04-09 01:26:42,711 - INFO - Processing ID: Netclan20241116 | URL: https://insights.blackcoffer.com/database-normalization-segmentation-with-google-data-studio-dashboard-insights/
+2025-04-09 01:26:46,828 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241116.txt'
+
+2025-04-09 01:26:46,828 - INFO - Processing ID: Netclan20241117 | URL: https://insights.blackcoffer.com/power-bi-dashboard-to-drive-insights-from-complex-data-to-generate-business-insights/
+2025-04-09 01:26:50,299 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241117.txt'
+
+2025-04-09 01:26:50,300 - INFO - Processing ID: Netclan20241118 | URL: https://insights.blackcoffer.com/real-time-dashboard-to-monitor-infrastructure-activity-and-machines/
+2025-04-09 01:26:55,077 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241118.txt'
+
+2025-04-09 01:26:55,078 - INFO - Processing ID: Netclan20241119 | URL: https://insights.blackcoffer.com/electric-vehicles-ev-load-management-system-to-forecast-energy-demand/
+2025-04-09 01:26:58,975 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241119.txt'
+
+2025-04-09 01:26:58,975 - INFO - Processing ID: Netclan20241120 | URL: https://insights.blackcoffer.com/power-bi-data-driven-map-dashboard/
+2025-04-09 01:27:03,628 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241120.txt'
+
+2025-04-09 01:27:03,628 - INFO - Processing ID: Netclan20241121 | URL: https://insights.blackcoffer.com/google-local-service-ads-lsa-leads-dashboard/
+2025-04-09 01:27:08,159 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241121.txt'
+
+2025-04-09 01:27:08,159 - INFO - Processing ID: Netclan20241122 | URL: https://insights.blackcoffer.com/aws-lex-voice-and-chatbot/
+2025-04-09 01:27:15,060 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241122.txt'
+
+2025-04-09 01:27:15,060 - INFO - Processing ID: Netclan20241123 | URL: https://insights.blackcoffer.com/metabridges-api-decentraland-integration/
+2025-04-09 01:27:23,194 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241123.txt'
+
+2025-04-09 01:27:23,194 - INFO - Processing ID: Netclan20241124 | URL: https://insights.blackcoffer.com/microsoft-azure-chatbot-with-luis-language-understanding/
+2025-04-09 01:27:29,495 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241124.txt'
+
+2025-04-09 01:27:29,496 - INFO - Processing ID: Netclan20241125 | URL: https://insights.blackcoffer.com/impact-of-news-media-and-press-on-innovation-startups-and-investments/
+2025-04-09 01:27:34,684 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241125.txt'
+
+2025-04-09 01:27:34,684 - INFO - Processing ID: Netclan20241126 | URL: https://insights.blackcoffer.com/aws-quicksight-reporting-dashboard/
+2025-04-09 01:27:39,492 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241126.txt'
+
+2025-04-09 01:27:39,493 - INFO - Processing ID: Netclan20241127 | URL: https://insights.blackcoffer.com/google-data-studio-dashboard-for-marketing-ads-and-traction-data/
+2025-04-09 01:27:43,761 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241127.txt'
+
+2025-04-09 01:27:43,761 - INFO - Processing ID: Netclan20241128 | URL: https://insights.blackcoffer.com/gangala-in-e-commerce-big-data-etl-elt-solution-and-data-warehouse/
+2025-04-09 01:27:48,275 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241128.txt'
+
+2025-04-09 01:27:48,275 - INFO - Processing ID: Netclan20241129 | URL: https://insights.blackcoffer.com/big-data-solution-to-an-online-multivendor-marketplace-ecommerce-business/
+2025-04-09 01:27:53,545 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241129.txt'
+
+2025-04-09 01:27:53,546 - INFO - Processing ID: Netclan20241130 | URL: https://insights.blackcoffer.com/creating-a-custom-report-and-dashboard-using-the-data-got-from-atera-api/
+2025-04-09 01:27:59,678 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241130.txt'
+
+2025-04-09 01:27:59,678 - INFO - Processing ID: Netclan20241131 | URL: https://insights.blackcoffer.com/azure-data-lake-and-power-bi-dashboard/
+2025-04-09 01:28:04,628 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241131.txt'
+
+2025-04-09 01:28:04,628 - INFO - Processing ID: Netclan20241132 | URL: https://insights.blackcoffer.com/google-data-studio-pipeline-with-gcp-mysql/
+2025-04-09 01:28:09,446 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241132.txt'
+
+2025-04-09 01:28:09,447 - INFO - Processing ID: Netclan20241133 | URL: https://insights.blackcoffer.com/quickbooks-dashboard-to-find-patterns-in-finance-sales-and-forecasts/
+2025-04-09 01:28:18,508 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241133.txt'
+
+2025-04-09 01:28:18,509 - INFO - Processing ID: Netclan20241134 | URL: https://insights.blackcoffer.com/marketing-sales-and-financial-data-business-dashboard-wink-report/
+2025-04-09 01:28:24,447 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241134.txt'
+
+2025-04-09 01:28:24,447 - INFO - Processing ID: Netclan20241135 | URL: https://insights.blackcoffer.com/react-native-apps-in-the-development-portfolio/
+2025-04-09 01:28:30,269 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241135.txt'
+
+2025-04-09 01:28:30,269 - INFO - Processing ID: Netclan20241136 | URL: https://insights.blackcoffer.com/a-leading-firm-website-seo-optimization/
+2025-04-09 01:28:36,781 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241136.txt'
+
+2025-04-09 01:28:36,781 - INFO - Processing ID: Netclan20241137 | URL: https://insights.blackcoffer.com/a-leading-hospitality-firm-in-the-usa-website-seo-optimization/
+2025-04-09 01:28:41,763 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241137.txt'
+
+2025-04-09 01:28:41,763 - INFO - Processing ID: Netclan20241138 | URL: https://insights.blackcoffer.com/a-leading-firm-in-the-usa-website-seo-optimization/
+2025-04-09 01:28:46,981 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241138.txt'
+
+2025-04-09 01:28:46,981 - INFO - Processing ID: Netclan20241139 | URL: https://insights.blackcoffer.com/a-leading-musical-instrumental-website-seo-optimization/
+2025-04-09 01:28:51,565 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241139.txt'
+
+2025-04-09 01:28:51,565 - INFO - Processing ID: Netclan20241140 | URL: https://insights.blackcoffer.com/a-leading-firm-in-the-usa-seo-and-website-optimization/
+2025-04-09 01:28:56,294 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241140.txt'
+
+2025-04-09 01:28:56,294 - INFO - Processing ID: Netclan20241141 | URL: https://insights.blackcoffer.com/immigration-datawarehouse-ai-based-recommendations/
+2025-04-09 01:29:01,682 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241141.txt'
+
+2025-04-09 01:29:01,682 - INFO - Processing ID: Netclan20241142 | URL: https://insights.blackcoffer.com/lipsync-automation-for-celebrities-and-influencers/
+2025-04-09 01:29:07,564 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241142.txt'
+
+2025-04-09 01:29:07,564 - INFO - Processing ID: Netclan20241143 | URL: https://insights.blackcoffer.com/key-audit-matters-predictive-modeling/
+2025-04-09 01:29:12,399 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241143.txt'
+
+2025-04-09 01:29:41,314 - INFO - Processing ID: Netclan20241144 | URL: https://insights.blackcoffer.com/splitting-of-songs-into-its-vocals-and-instrumental/
+2025-04-09 01:29:48,566 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241144.txt'
+
+2025-04-09 01:29:48,566 - INFO - Processing ID: Netclan20241145 | URL: https://insights.blackcoffer.com/ai-and-ml-technologies-to-evaluate-learning-assessments/
+2025-04-09 01:29:54,909 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241145.txt'
+
+2025-04-09 01:29:54,910 - INFO - Processing ID: Netclan20241146 | URL: https://insights.blackcoffer.com/datawarehouse-and-recommendations-engine-for-airbnb/
+2025-04-09 01:30:01,545 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241146.txt'
+
+2025-04-09 01:30:01,546 - INFO - Processing ID: Netclan20241147 | URL: https://insights.blackcoffer.com/real-estate-data-warehouse/
+2025-04-09 01:30:11,058 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241147.txt'
+
+2025-04-09 01:30:11,058 - INFO - Processing ID: Netclan20241148 | URL: https://insights.blackcoffer.com/traction-dashboards-of-marketing-campaigns-and-posts/
+2025-04-09 01:30:20,155 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241148.txt'
+
+2025-04-09 01:30:20,155 - INFO - Processing ID: Netclan20241149 | URL: https://insights.blackcoffer.com/google-local-service-ads-lsa-data-warehouse/
+2025-04-09 01:30:23,996 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241149.txt'
+
+2025-04-09 01:30:23,997 - INFO - Processing ID: Netclan20241150 | URL: https://insights.blackcoffer.com/google-local-service-ads-missed-calls-and-messages-automation-tool/
+2025-04-09 01:30:28,088 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241150.txt'
+
+2025-04-09 01:30:28,089 - INFO - Processing ID: Netclan20241151 | URL: https://insights.blackcoffer.com/marketing-ads-leads-call-status-data-tool-to-bigquery/
+2025-04-09 01:30:31,405 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241151.txt'
+
+2025-04-09 01:30:31,405 - INFO - Processing ID: Netclan20241152 | URL: https://insights.blackcoffer.com/marketing-analytics-to-automate-leads-call-status-and-reporting/
+2025-04-09 01:30:35,241 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241152.txt'
+
+2025-04-09 01:30:35,242 - INFO - Processing ID: Netclan20241153 | URL: https://insights.blackcoffer.com/callrail-analytics-leads-report-alert/
+2025-04-09 01:30:39,507 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241153.txt'
+
+2025-04-09 01:30:39,508 - INFO - Processing ID: Netclan20241154 | URL: https://insights.blackcoffer.com/marketing-automation-tool-to-notify-lead-details-to-clients-over-email-and-phone/
+2025-04-09 01:30:43,956 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241154.txt'
+
+2025-04-09 01:30:43,956 - INFO - Processing ID: Netclan20241155 | URL: https://insights.blackcoffer.com/data-etl-local-service-ads-leads-to-bigquery/
+2025-04-09 01:30:47,935 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241155.txt'
+
+2025-04-09 01:30:47,936 - INFO - Processing ID: Netclan20241156 | URL: https://insights.blackcoffer.com/marbles-stimulation-using-python/
+2025-04-09 01:30:54,387 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241156.txt'
+
+2025-04-09 01:30:54,388 - INFO - Processing ID: Netclan20241157 | URL: https://insights.blackcoffer.com/stocktwits-data-structurization/
+2025-04-09 01:30:58,611 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241157.txt'
+
+2025-04-09 01:30:58,612 - INFO - Processing ID: Netclan20241158 | URL: https://insights.blackcoffer.com/sentimental-analysis-on-shareholder-letter-of-companies/
+2025-04-09 01:31:03,657 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241158.txt'
+
+2025-04-09 01:31:03,658 - INFO - Processing ID: Netclan20241159 | URL: https://insights.blackcoffer.com/population-and-community-survey-of-america/
+2025-04-09 01:31:08,245 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241159.txt'
+
+2025-04-09 01:31:08,245 - INFO - Processing ID: Netclan20241160 | URL: https://insights.blackcoffer.com/google-lsa-api-data-automation-and-dashboarding/
+2025-04-09 01:31:12,265 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241160.txt'
+
+2025-04-09 01:31:12,265 - INFO - Processing ID: Netclan20241161 | URL: https://insights.blackcoffer.com/healthcare-data-analysis/
+2025-04-09 01:31:17,734 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241161.txt'
+
+2025-04-09 01:31:17,734 - INFO - Processing ID: Netclan20241162 | URL: https://insights.blackcoffer.com/budget-sales-kpi-dashboard-using-power-bi/
+2025-04-09 01:31:22,344 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241162.txt'
+
+2025-04-09 01:31:22,344 - INFO - Processing ID: Netclan20241163 | URL: https://insights.blackcoffer.com/amazon-buy-bot-an-automation-ai-tool-to-auto-checkouts/
+2025-04-09 01:31:28,547 - INFO - Saved content to 'extracted_articles_from_input_excel\Netclan20241163.txt'
+
+2025-04-09 01:31:30,847 - INFO - Browser closed.
